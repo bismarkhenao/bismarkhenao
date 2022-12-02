@@ -1,4 +1,4 @@
-## Hi :wave:, I'm Bismark
+# Hi :wave:, I'm Bismark
 
 - 🔭 I’m currently working on @sequra
 - 🌱 I’m currently learning Ruby, Java and Rust
