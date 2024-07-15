@@ -2,7 +2,7 @@
 
 - 🔭 Working on some nice stuff
 - 💬 Ask me about JavaScript & TypeScript
-- 🌱 Learning Ruby, Java and Rust
+- 🌱 Learning Ruby and React Native
 - 👷 I’m looking to collaborate on open source projects
-- ⚡ Fun facts: I'm an Open Water Diver 🤿 and a CrossFitter 🏋️
+- ⚡ Fun facts: I'm an Open Water Diver 🤿 and BJJ practitioner 🥋
 
